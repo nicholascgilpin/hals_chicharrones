@@ -20,6 +20,8 @@ The follow instructions detail how to install some standard tools for machine le
   conda install -c conda-forge keras
   conda install -c conda-forge spacy
   pip install neat-python
+  pip install graphviz
+  pip install matplotlib
   ```
   ## To Run
   1. Open the notebook file in the Jupyter Notebook Desktop app
