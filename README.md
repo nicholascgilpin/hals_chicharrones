@@ -22,6 +22,9 @@ The follow instructions detail how to install some standard tools for machine le
   pip install neat-python
   pip install graphviz
   pip install matplotlib
+  pip install keras
+  pip install nltk
+  pip install sklearn
   ```
   ## To Run
   1. Open the notebook file in the Jupyter Notebook Desktop app
