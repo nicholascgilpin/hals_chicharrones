@@ -17,6 +17,7 @@ The follow instructions detail how to install some standard tools for machine le
 
   ```
   conda install tensorflow
+  conda install -c conda-forge keras
   conda install -c conda-forge spacy
   ```
   ## To Run
