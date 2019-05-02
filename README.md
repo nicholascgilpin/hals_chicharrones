@@ -13,12 +13,11 @@ The follow instructions detail how to install some standard tools for machine le
   activate chatbot
   ```
 
- 1. Install [Spacy](https://spacy.io/usage) and [Tensorflow]()
+ 1. Install packages
 
   ```
   conda install tensorflow
   conda install -c conda-forge keras
-  conda install -c conda-forge spacy
   pip install neat-python
   pip install graphviz
   pip install matplotlib
