@@ -6,7 +6,7 @@ The results thus far no NOT use NLP pre-processing nor hardware acceleration or 
 Tooling for neuroevolutional techniques is immature, so library optimization is a good avenue for future work.
 Neuroevolution creates very flexible neural networks, so the technique is suitable for AutoML.
 
-# Contents
+## Contents
 
   - simple.ipynb
     - Contains the main logic, you can follow it through the in file comments
